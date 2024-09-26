@@ -1,4 +1,3 @@
-Here’s a sample `README.md` file you can include with your assignment submission. It covers an overview of the project, instructions on how to set it up, and how to run the script.
 
 ---
 
